@@ -3,7 +3,7 @@ kind: API
 metadata:
   name: app-demo-act
   title: app-demo-act
-  publishedAt: "2024-08-02 17:00:33"
+  publishedAt: "2024-08-02 17:01:26"
   description: 'app-demo-act Swagger at [http://swagger.io](http://swagger.io) or on [irc.freenode.net, #swagger](http://swagger.io/irc/).  For this sample, you can use the api key `special-key` to test the authorization filters.'
   tags:
     - act
