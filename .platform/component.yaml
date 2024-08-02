@@ -5,9 +5,9 @@ metadata:
   description: "app-demo-act"
   annotations:
     github.com/project-slug: veecode-apr/app-demo-act
-    backstage.io/techdocs-ref: dir:..
+    # backstage.io/techdocs-ref: dir:..
     backstage.io/kubernetes-id: "app-demo-act"
-    #vault.io/secrets-path: "app-demo-act"
+    vault.io/secrets-path: "app-demo-act"
     grafana/dashboard-selector: "app-demo-act"
     grafana/alert-label-selector: "alertname=app-demo-act"
     argocd/proxy-url: '/argocd/api'
